@@ -1,3 +1,3 @@
-# git_test
-Mt first Github repo
+# commit messages
+My first Github commit
 Hello Odin!
